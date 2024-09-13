@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=verozaskia&show_icons=true&theme=radical)
+![Vero's GitHub stats](https://github-readme-stats.vercel.app/api?username=verozaskia&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on a machine learning project related to natural language processing.
 - 🌱 I’m currently learning about advanced deep learning techniques and TensorFlow.
